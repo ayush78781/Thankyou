@@ -1,0 +1,19 @@
+<style>
+body { 
+    background-image: pic_trulli.jpg;
+            }
+h1 {
+     color:red;
+     font-family:verdana;
+     font-size: 300%;
+     border:2px solid blue;
+      }
+p {
+     color:gray;
+     font-family:courier;
+     font-size: 190%;
+     border:2px solid red;
+     margin: 30px;
+    }
+</style>
+    

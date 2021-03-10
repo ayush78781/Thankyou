@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Images Learning</title>
+<link rel="stylesheet" href=style1.css>
+</head>
+<body>
+<h1>Images Learning</h1>
+<a href="http://w3schools.com">
+<img src="C:\Users\saxena14\OneDrive\Pictures\Camera Roll\hp_picture" alt="first picture" style="width:42;height:42px">
+</a>
+<hr>
+<p>I will keep on learning and implementing new things and soon will transgorm into the best version self</p>
+<hr>
+</body>
+<html>

@@ -1,0 +1,40 @@
+body {
+    
+    background-image: url('C:\Users\saxena14\OneDrive\Pictures\Camera Roll\hp_picture.jpg');
+   }
+h1  {
+    color: blue;
+    font-family:verdana;
+    font-size:300%;
+    border: 2px solid tomato;
+    padding: 30px;
+   }
+p  {
+color: DodgerBlue;
+font-family:courier;
+border: 2px solid tomato;
+padding: 30px;
+    }
+a:link {
+ background-color:tomato;
+color: white;
+padding: 15px 25px;
+text-align:center;
+text-decoration:none;
+text-decoration: none;
+display: inline-block;
+    }
+a:visited {
+ color:pink;
+background-color:transparent;
+text-decoration: none;
+    }
+a:hover {
+color: red;
+text-decoration:underline;
+ }
+a:active {
+color: yellow;
+text-decoration:underline;
+}
+

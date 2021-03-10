@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<!-- THIS IS HTML PROGRAM -->
+<html>
+<head>
+<title><i>GET UP EARLY</i></title>
+</head>
+<body>
+<h1 style="font-family:verdana>YOU&ME</h1>
+<p title='Statement of "Title"' ><b>This channel is designed in order to help people to have good<sup> carrer</sup> guidance,<br> motivation to live a happy and succesful life.</b></p>
+<hr>
+<h2 style="backgroud-color:powderblue;">POETRY OR STORY ON EVERY OCCASION</h2>
+<p style="text-align:center;"><strong>Inorder</strong> to<del> my</del> enhance my <sub>descriptive writing skills</sub>, to maintain a flow of writing</p>
+<hr>
+<p>My prepration is continue for <abbr title="Graduate Aptitude Test of Enginnering>GATE</abbr> examination but i have to deep dive so as to get there where i was'nt able to reach through <abbr title="Joint Entrance Examination">JEE</abbr>...</p> 
+<address>
+Written by Ayush Saxena.<br>
+<a href="www.w3schools.com">visit here to learn more</a><br>
+ contact me Email id:ayush70781@gmail.com<br>
+428, sevadham colony, bareilly<br>
+India
+</address>
+<hr>
+<img src="C:\Users\saxena14\OneDrive\Pictures\mobile pics\apj quotes.jpg" width="300" height="300">
+<hr>
+</body>
+</html>
+
+
